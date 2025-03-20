@@ -33,6 +33,7 @@ python3 xlsxConverter.py <INPUT_FILE.xlsx> -<option> <OUTPUT_FILE>
 ### Options
 
 -j: Convert XLSX to JSON format.
+
 -c: Convert XLSX to CSV format.
 
 ## Examples:

@@ -46,3 +46,9 @@ Convert report.xlsx to report.csv:
 python3 xlsxConverter.py report.xlsx report.csv -c
 ```
 
+## License
+This project is open-source and free to use under the MIT License.
+
+## Author
+Raul Schneider
+

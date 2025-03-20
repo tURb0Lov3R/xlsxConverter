@@ -16,9 +16,8 @@
     git clone [https://github.com/tURb0Lov3R/xlsxConverter.git](https://www.google.com/search?q=https://github.com/tURb0Lov3R/xlsxConverter.git)
     cd xlsxConverter
     ```
-2.  **Install Dependencies (if any):**
+2.  **Install Dependencies (add depedencies):**
     ```bash
-    # If you have external dependencies, list them here.
     # For example:
     # pip install openpyxl
     ```
